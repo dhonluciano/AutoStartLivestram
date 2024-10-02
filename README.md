@@ -1,10 +1,10 @@
 # AutoStartLivestram
- PT-BR
- Esse codigo visa facilitar via automatização o processo de abertura de live.
+### PT-BR
+Esse codigo visa facilitar via automatização o processo de abertura de live.
 Fazemos live em todos os cultos na igreja, e o processo de abertura é tecnicamente simples, mas trabalhoso. Então eu, que na epoca estava iniciando em programação, tive a ideia de criar esse script, que visa automatizar todo o trabalho que teriamos de fazer manualmente. Agora tudo que precisamos fazer é dar dois cliques no codigo, apertar ok e ver o programa fazer em 5 minutos o que nós levariamos 10 ou 15 pra fazer. Ao subir esse codigo para o GitHub, tentei padroniza-lo o maximo para necessitar de apenas pequenas alterações e ser facilmente manipulavel para uso em diversas ocasiões, mantendo apenas a base do codigo, e deixando livre para você colocar suas informações. POR FAVOR, ANTES DE USAR LEIA AS INSTRUÇÕES, NA PASTA DO CODIGO.
 P.S.: Se você pretende utilizar esse codigo para a mesma finalidade, lembre se de adcionar titulos, links e etc. que sejam compativeis com a sua realidade. 
 
 
-EN-US
+### EN-US
 This code aims to facilitate the process of opening a live stream through automation. We hold live streams during all church services, and while the process of opening is technically simple, it is labor-intensive. So, at the time when I was just starting with programming, I had the idea to create this script, which aims to automate all the work that we would have to do manually. Now, all we need to do is double-click the code, hit okay, and watch the program accomplish in 5 minutes what would take us 10 or 15 minutes to do. When uploading this code to GitHub, I tried to standardize it as much as possible so that it requires only minor changes and is easily manipulable for use on various occasions, keeping only the core of the code and leaving it open for you to insert your informations. PLEASE, BEFORE TO USE READ THE INSTRUCTIONS, IN CODE'S FOLDER.
 P.S.: If you intend to use this code for the same purpose, remember to add titles, links, etc. that are compatible with your reality.
